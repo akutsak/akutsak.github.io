@@ -1,0 +1,22 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    /*background-color: rgb(151, 93, 207);
+    color: white;*/
+}
+.row{
+    margin: 50px 50px 50px 0px;
+}
+#nb{
+    margin-top: 0px;
+}
+.nvbr{
+    background-color: rgb(76, 24, 124);
+}
+.ftr{
+    background-color: black;
+    color: white;
+    margin-bottom: 0px;
+}
+.desc{
+    font-size: 20px;
+}
